@@ -1,0 +1,9 @@
+cloud models:
+
+-private cloud
+-public cloud
+-hybrid cloud
+
+
+
+

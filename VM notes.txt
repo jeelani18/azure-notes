@@ -1,0 +1,29 @@
+steps to create a web browser in a VM:
+
+
+1.server manager
+2.add roles and features
+3.server roles and click on installation type then on role based
+4.check mark web server and click next
+5.click install
+
+
+#a folder will be created in c drive(inetpub)
+
+6.go to vm_nsg
+7.add http 
+8.goto vm in c drive
+9.create a html file
+10.now copy the address of your vm(top of vm) and paste it in your google web browser
+
+note-
+
+port numbers:
+
+RDP-3389
+HTTP-80
+HTTPS-443
+
+
+
+

@@ -1,0 +1,15 @@
+-> same process as windows but install putty and paste the ip address of vm in it
+
+-> putty works as free SSH port for linux server
+
+-> to access in user mode 'sudo su'
+
+-> command 'uname -r' shows server we are connected
+
+-> To create a file 'cat > filename' and to open is 'cat filename'
+
+-> 'ls -l' shows directory, to create directory 'mkdir name' and to access it 'cd name'
+
+-> to get out of directory 'cd ..'
+
+-> 

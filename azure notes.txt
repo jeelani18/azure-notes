@@ -1,0 +1,38 @@
+Microsoft Azure:-
+
+combination of data centres is cloud
+"           "   servers is data centre
+
+cloud services:
+
+IAAS
+PAAS
+SAAS
+
+IAAS-(infrastructure as a service)
+
+(resources given)
+-hardware(computers)(infrastructure)
+-power resources
+
+(we should maintain)
+-user access
+-softwares
+-operating systems
+
+
+PAAS-(used for web designing)(Platform as a service)
+
+provides operating systems, hardware.
+
+
+
+SAAS-
+
+provides operating systems, hardware, softwares.
+
+
+
+
+
+
